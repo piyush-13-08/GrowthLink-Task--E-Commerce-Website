@@ -1,7 +1,6 @@
 # HEIN.
 
 Ecommerce Web Application built with the MERN Stack.
-Inspired by [_Lama Dev_](https://www.youtube.com/c/LamaDev)
 
 ## 🏁 Get Started
 
